@@ -1,4 +1,14 @@
-### Hi there 👋
+# Zahktïn Làhm (Zetian Lin)
+
+- Currently a studet at DCU in Dublin, Ireland.
+- "Zahktïn Làhm" is in Cantonese.
+- I’m currently working on:
+  + A ray tracer, following the series [Ray Tracing in One Weekend](https://raytracing.github.io/)
+  + And many more stuff that has been waiting in my TODO list for ages...
+- How to reach me:
+  + Mastodon: `@bctnry@mastodon.sdf.org`
+  + Twitter: @bctnry
+  + E-Mail: bctnry (a) outlook.com
 
 <!--
 **bctnry/bctnry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
