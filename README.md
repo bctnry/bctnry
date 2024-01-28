@@ -2,7 +2,7 @@
 
 - Currently a studet at DCU in Dublin, Ireland.
 - "Zahktïn Làhm" is in Cantonese.
-- I’m currently working on: a lexer generator (like `lex` and `flex`)
+- I’m currently working on: a lexer generator (like `lex` and `flex`) called [Crimson](https://github.com/bctnry/Crimson)
   + And many more stuff that has been waiting in my TODO list for ages...
 - How to reach me:
   + Mastodon: `@bctnry@mastodon.sdf.org`
