@@ -3,8 +3,9 @@
 - Currently a studet at DCU in Dublin, Ireland.
 - "Zahktïn Làhm" is in Cantonese.
 - I’m currently juggling between:
-  + A lexer generator (like `lex` and `flex`) called [Crimson](https://github.com/bctnry/Crimson)
-  + A text macro language called [Weave](https://github.com/WeaveLang/weave)
+  + Grad school;
+  + Learning [Genode OS](https://genode.org) and try to build a distro;
+  + Working on my lexer generator [Crimson](https://github.com/bctnry/Crimson);
   + And many more stuff that has been waiting in my TODO list for ages...
 - How to reach me:
   + Mastodon: `@bctnry@mastodon.sdf.org`
