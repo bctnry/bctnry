@@ -1,16 +1,15 @@
-# Zahktïn Làhm (Zetian Lin)
+# Zaaktin Lam (Zetian Lin)
 
 - Currently a studet at DCU in Dublin, Ireland.
-- "Zahktïn Làhm" is in Cantonese.
+- "Zaaktin Lam" is in Cantonese.
 - I’m currently juggling between:
   + Grad school;
-  + Learning [Genode OS](https://genode.org) and try to build a distro;
   + Working on my lexer generator [Crimson](https://github.com/bctnry/Crimson);
   + And many more stuff that has been waiting in my TODO list for ages...
 - How to reach me:
   + Mastodon: `@bctnry@mastodon.sdf.org`
   + Twitter: @bctnry
-  + E-Mail: bctnry (a) outlook.com
+  + E-Mail: zaaktin.lam {at} outlook.com
 
 <!--
 **bctnry/bctnry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
