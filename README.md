@@ -9,7 +9,7 @@
 - How to reach me:
   + Mastodon: `@bctnry@mastodon.sdf.org`
   + Twitter: @bctnry
-  + E-Mail: zaaktin.lam {at} outlook.com
+  + E-Mail: zaaktin.lam {at} outlook.com / bctnry {at} sdf.org
 
 <!--
 **bctnry/bctnry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
