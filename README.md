@@ -1,7 +1,6 @@
 # Zetian Lin
 
 - Currently a studet at DCU in Dublin, Ireland.
-- "Zaaktin Lam" is in Cantonese.
 - I’m currently juggling between:
   + Grad school;
   + And many more stuff that has been waiting in my TODO list for ages...
