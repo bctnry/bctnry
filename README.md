@@ -1,10 +1,9 @@
-# Zaaktin Lam (Zetian Lin)
+# Zetian Lin
 
 - Currently a studet at DCU in Dublin, Ireland.
 - "Zaaktin Lam" is in Cantonese.
 - I’m currently juggling between:
   + Grad school;
-  + Working on my lexer generator [Crimson](https://github.com/bctnry/Crimson);
   + And many more stuff that has been waiting in my TODO list for ages...
 - How to reach me:
   + Mastodon: `@bctnry@mastodon.sdf.org`
