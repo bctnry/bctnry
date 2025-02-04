@@ -1,4 +1,4 @@
-# Zetian Lin
+# Zetian Lin<br />(Sebastian Zack Tin Lahm-Lee)
 
 - Currently a studet at DCU in Dublin, Ireland.
 - I’m currently juggling between:
@@ -8,6 +8,10 @@
   + Mastodon: `@bctnry@mastodon.sdf.org`
   + Twitter: @bctnry
   + E-Mail: zaaktin.lam {at} outlook.com / bctnry {at} sdf.org
+
+<details><summary>What's up with tne name in the parentheses</summary>
+It's me following the conventions of Hong Kong since I'm from a Cantonese-speaking region. I'm okay with people using the name Zetian but I would much rather be called Zack or Sebastian since "Zetian" is Mandarin. You'll see me using this name from time to time in different projects.
+</details>
 
 <!--
 **bctnry/bctnry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
