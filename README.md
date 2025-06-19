@@ -5,8 +5,7 @@
   + Grad school;
   + And many more stuff that has been waiting in my TODO list for ages...
 - How to reach me:
-  + Mastodon: `@bctnry@mastodon.sdf.org`
-  + Twitter: @bctnry
+  + Mastodon: `@bctnry0@mastodon.sdf.org`
   + E-Mail: zaaktin.lam {at} outlook.com / bctnry {at} sdf.org
 
 <details><summary>What's up with tne name in the parentheses</summary>
