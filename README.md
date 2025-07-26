@@ -3,12 +3,13 @@
 - Currently a studet at DCU in Dublin, Ireland.
 - I’m currently juggling between:
   + Grad school;
+  + [Aegis Code Forge](https://github.com/AegisCodeForge/aegis), currently a self-hosted Git server;
   + And many more stuff that has been waiting in my TODO list for ages...
 - How to reach me:
   + Mastodon: `@bctnry0@mastodon.sdf.org`
   + E-Mail: zaaktin.lam {at} outlook.com / bctnry {at} sdf.org
 
-<details><summary>What's up with tne name in the parentheses</summary>
+<details><summary>What's up with the name in the parentheses</summary>
 It's me following the conventions of Hong Kong since I'm from a Cantonese-speaking region. I'm okay with people using the name Zetian but I would much rather be called Zack or Sebastian since "Zetian" is Mandarin. You'll see me using this name from time to time in different projects.
 </details>
 
