@@ -1,8 +1,7 @@
 # Zetian Lin<br />(Sebastian Zack Tin Lahm-Lee)
 
-- Currently a studet at DCU in Dublin, Ireland.
+- Currently open for work in Dublin, Ireland.
 - I’m currently juggling between:
-  + Grad school;
   + [Aegis Code Forge](https://github.com/AegisCodeForge/aegis), currently a self-hosted Git server;
   + And many more stuff that has been waiting in my TODO list for ages...
 - How to reach me:
