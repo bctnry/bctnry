@@ -3,9 +3,10 @@
 - Currently open for work in Dublin, Ireland.
 - I’m currently juggling between:
   + [Aegis Code Forge](https://github.com/AegisCodeForge/aegis), currently a self-hosted Git server;
+  + [_A Gentle Introduction to Mercury_](https://github.com/bctnry/gentle-introduction-to-mercury), a textbook for the Mercury programming language;
   + And many more stuff that has been waiting in my TODO list for ages...
 - How to reach me:
-  + Mastodon: `@bctnry0@mastodon.sdf.org`
+  + Mastodon: `@sztl@mastodon.social`
   + E-Mail: zaaktin.lam {at} outlook.com / bctnry {at} sdf.org
 
 <details><summary>What's up with the name in the parentheses</summary>
