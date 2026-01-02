@@ -1,6 +1,6 @@
 # Zetian Lin<br />(Sebastian Zack Tin Lahm-Lee)
 
-- Currently open for work in Dublin, Ireland.
+- Currently open for work (location negotiable)
 - I’m currently juggling between:
   + [Aegis Code Forge](https://github.com/AegisCodeForge/aegis), currently a self-hosted Git server;
   + [_A Gentle Introduction to Mercury_](https://github.com/bctnry/gentle-introduction-to-mercury), a textbook for the Mercury programming language;
