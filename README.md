@@ -3,14 +3,16 @@
 - Currently open for work (location negotiable)
 - I’m currently juggling between:
   + [Aegis Code Forge](https://github.com/AegisCodeForge/aegis), currently a self-hosted Git server;
-  + [_A Gentle Introduction to Mercury_](https://github.com/bctnry/gentle-introduction-to-mercury), a textbook for the Mercury programming language;
+  + Mercury related stuff, including:
+    + [_A Gentle Introduction to Mercury_](https://github.com/bctnry/gentle-introduction-to-mercury), a textbook for the Mercury programming language;
+    + [_Mercury by Example_](https://github.com/bctnry/mercury-by-example);
   + And many more stuff that has been waiting in my TODO list for ages...
 - How to reach me:
   + Mastodon: `@sztl@mastodon.social`
   + E-Mail: zaaktin.lam {at} outlook.com / bctnry {at} sdf.org
 
 <details><summary>What's up with the name in the parentheses</summary>
-It's me following the conventions of Hong Kong since I'm from a Cantonese-speaking region. I'm okay with people using the name Zetian but I would much rather be called Zack or Sebastian since "Zetian" is Mandarin. You'll see me using this name from time to time in different projects.
+It's me following the conventions of Hong Kong since I'm from a Cantonese-speaking region. You'll see me using this name from time to time in different projects.
 </details>
 
 <!--
