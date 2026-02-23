@@ -2,7 +2,7 @@
 
 - Currently open for work (location negotiable)
 - I’m currently juggling between:
-  + [Aegis Code Forge](https://github.com/AegisCodeForge/aegis), currently a self-hosted Git server;
+  + [Gitus Code Forge](https://github.com/GitusCodeForge/gitus), currently a self-hosted Git server;
   + Mercury related stuff, including:
     + [_A Gentle Introduction to Mercury_](https://github.com/bctnry/gentle-introduction-to-mercury), a textbook for the Mercury programming language;
     + [_Mercury by Example_](https://github.com/bctnry/mercury-by-example);
