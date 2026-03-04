@@ -6,6 +6,7 @@
   + Mercury related stuff, including:
     + [_A Gentle Introduction to Mercury_](https://github.com/bctnry/gentle-introduction-to-mercury), a textbook for the Mercury programming language;
     + [_Mercury by Example_](https://github.com/bctnry/mercury-by-example);
+  + Agent-related stuff (unfortunately)
   + And many more stuff that has been waiting in my TODO list for ages...
 - How to reach me:
   + Mastodon: `@sztl@mastodon.social`
