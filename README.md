@@ -1,6 +1,6 @@
 # Zetian Lin<br />(Sebastian Zack Tin Lahm-Lee)
 
-- Currently open for work (location negotiable)
+- Currently not open for work (but feel free to contact me anyway)
 - I’m currently juggling between:
   + [Gitus Code Forge](https://github.com/GitusCodeForge/gitus), currently a self-hosted Git server;
   + Mercury related stuff, including:
