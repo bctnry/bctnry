@@ -3,6 +3,7 @@
 - Currently not open for work (but feel free to contact me anyway)
 - I’m currently juggling between:
   + Work (of course)
+  + Trying to learn as many machine learning / deep learning things as fast as possible (see [https://github.com/bctnry/ml-ex](https://github.com/bctnry/ml-ex))
   + [Gitus Code Forge](https://github.com/GitusCodeForge/gitus), currently a self-hosted Git server;
   + Mercury related stuff, including:
     + [_A Gentle Introduction to Mercury_](https://github.com/bctnry/gentle-introduction-to-mercury), a textbook for the Mercury programming language;
