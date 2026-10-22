@@ -10,7 +10,6 @@
     + [_Mercury by Example_](https://github.com/bctnry/mercury-by-example);
   + And many more stuff that has been waiting in my TODO list for ages...
 - How to reach me:
-  + Mastodon: `@sztl@mastodon.social`
   + E-Mail: zaaktin.lam {at} outlook.com
 
 <details><summary>What's up with the name in the parentheses</summary>
